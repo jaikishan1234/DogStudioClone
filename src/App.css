@@ -132,7 +132,7 @@ section {
     display: flex;
     flex-direction: column;
     padding-left: 17rem;
-    padding-block: 10rem;
+    margin-block: 10rem;
 
     .title {
       display: flex;
